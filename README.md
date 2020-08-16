@@ -1,2 +1,2 @@
 # CS230Projects
-CS230 Class Work
+CS230 Class Work while working towards a Bachelor's Degree in Computer Science at SNHU
